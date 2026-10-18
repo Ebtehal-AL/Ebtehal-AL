@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Ebtehal 👋
 
-<!--
-**Ebtehal-AL/Ebtehal-AL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Full-Stack Developer seeking remote opportunities in Saudi Arabia.
 
-Here are some ideas to get you started:
+During my internship at Mercedes-Benz, I worked with Go, Next.js, and PostgreSQL. My bachelor's thesis focused on quarter-hourly electricity price forecasting using Python, XGBoost, and LSTM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Full-stack: Go, Next.js, PostgreSQL
+- Additional experience: Angular, Spring Boot
+- Data & Machine Learning: Python, Pandas, XGBoost, LSTM
+
+## Selected Projects
+### Electricity Price Forecasting
+Bachelor's thesis exploring machine learning approaches to quarter-hourly electricity price forecasting.
+
+[View project](https://github.com/Ebtehal-AL/electricity-price-forecasting)
+
+### Shop Floor Assistance
+Team project supporting pharmaceutical production workflows. Contributed to frontend UI components, API integration, and workflow implementation.
+
+[View project](https://github.com/Ebtehal-AL/shop-floor-assistance)
+
+## Open to Opportunities
+Interested in junior full-stack and backend roles with remote teams.
